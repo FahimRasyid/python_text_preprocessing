@@ -1,7 +1,7 @@
 import re
 
 # Fill text with desirable text
-text = 'my name-is muhammad_fahim 2 9'
+text = 'Your text here...'
 
 # Replace ")" and store text into list
 text_key = text.replace(")", " ")
